@@ -10234,20 +10234,16 @@ ol.commentlist li .star-rating {
     background-color: #4867AA;
 }
 
-.tw-btn {
-    background-color: #1DA1F2;
+.in-btn {
+    background-color: #E1306C;
 }
 
-.gplus-btn {
-    background-color: #DC4A38;
+.y-btn {
+    background-color: #ff0000;
 }
 
-.pin-btn {
-    background-color: #CC2127;
-}
-
-.link-btn {
-    background-color: #0274B3;
+.go-btn {
+    background-color: #FFFFFF;
 }
 
 .dez-social-icon.dez-social-icon-lg li a {
