@@ -6326,6 +6326,28 @@ a,
     color: #fff;
 }
 
+/* Whatsapp button */
+
+.Whatsapp-link {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.Whatsapp-link:hover {background-color: #3e8e41}
+
+.Whatsapp-link:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
 
 /* button text uppercase */
 
